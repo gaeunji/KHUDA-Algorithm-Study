@@ -21,7 +21,6 @@
     <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     </td>
   </tr>
 </table>
@@ -31,9 +30,10 @@
 
 ## 👑 이주의 문제 👑
 
-| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 |
-| --- | --- | --- | --- | --- |
-| Week 1 | 2025/03/25 | 문자열 | <p align=left> 1️⃣ [숫자고르기](https://www.acmicpc.net/problem/2668) <br> 2️⃣ [감시 피하기](https://www.acmicpc.net/problem/18428) <br> 3️⃣ [극장 좌석](https://www.acmicpc.net/problem/2302) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <br><br> |
+| 주차 | 날짜 | 문제 유형 | 문제 |
+| --- | --- | --- | --- |
+| Week 1 | 2025/03/25 ~ 2025/03/31 | 배열 | <p align=left> 1️⃣ [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) <br> 2️⃣ [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) <br> 3️⃣ [행렬 곱셈](https://www.acmicpc.net/problem/2740) <br> 4️⃣ [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) <br>5️⃣ [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
+</p>
 
 <br />
 <br />
@@ -43,13 +43,14 @@
 
 <table><tr>         
 <td align="center" width="140px" height="200px"><a href="https://github.com/sjoon22"><img src="https://avatars.githubusercontent.com/u/160305407?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>sjoon22</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-<td align="center" width="140px" height="200px"><a href="https://github.com/qorjiwon"><img src="https://avatars.githubusercontent.com/u/82700743?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>qorjiwon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+<td align="center" width="140px" height="200px"><a href="https://github.com/qorjiwon"><img src="https://avatars.githubusercontent.com/u/82700743?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>qorjiwon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/3"/></sub></a><br /></td>
 <td align="center" width="140px" height="200px"><a href="https://github.com/mingmingseok"><img src="https://avatars.githubusercontent.com/u/145955083?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>mingmingseok</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 <td align="center" width="140px" height="200px"><a href="https://github.com/gaeunji"><img src="https://avatars.githubusercontent.com/u/158152252?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>gaeunji</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 </tr><tr>         
 <td align="center" width="140px" height="200px"><a href="https://github.com/reewon"><img src="https://avatars.githubusercontent.com/u/85295944?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>reewon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 <td align="center" width="140px" height="200px"><a href="https://github.com/DoJiSeon"><img src="https://avatars.githubusercontent.com/u/66786183?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>DoJiSeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 <td align="center" width="140px" height="200px"><a href="https://github.com/Sjaize"><img src="https://avatars.githubusercontent.com/u/194899453?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>Sjaize</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+<td align="center" width="140px" height="200px"><a href="https://github.com/yunchan-park"><img src="https://avatars.githubusercontent.com/u/194897454?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>yunchan-park</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 </table><br />
 
 <br />
