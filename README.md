@@ -32,7 +32,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 |
 | --- | --- | --- | --- |
-| Week 1 | 2025/03/25 ~ 2025/03/31 | 배열 | <p align=left> 1️⃣ [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) <br> 2️⃣ [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) <br> 3️⃣ [행렬 곱셈](https://www.acmicpc.net/problem/2740) <br> 4️⃣ [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) <br>5️⃣ [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
+| Week 2 | 2025/04/01 ~ 2025/04/07 | 문자열 | <p align=left> 1️⃣ [팰린드롬](https://www.acmicpc.net/problem/8892) <br> 2️⃣ [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) <br> 3️⃣ [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) <br> 4️⃣ [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) <br>5️⃣ [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
 </p>
 
 <br />
