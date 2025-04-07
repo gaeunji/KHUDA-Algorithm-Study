@@ -2,6 +2,7 @@ import re
 def solution(new_id):
     answer = ''
     
+    
     # Step 1
     new_id = new_id.lower()
     # step 2
