@@ -21,6 +21,7 @@
     <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     </td>
   </tr>
 </table>
@@ -46,12 +47,11 @@
 <td align="center" width="140px" height="200px"><a href="https://github.com/qorjiwon"><img src="https://avatars.githubusercontent.com/u/82700743?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>qorjiwon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9"/></sub></a><br /></td>
 <td align="center" width="140px" height="200px"><a href="https://github.com/mingmingseok"><img src="https://avatars.githubusercontent.com/u/145955083?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>mingmingseok</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9"/></sub></a><br /></td>
 <td align="center" width="140px" height="200px"><a href="https://github.com/gaeunji"><img src="https://avatars.githubusercontent.com/u/158152252?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>gaeunji</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
-</tr><tr>         
 <td align="center" width="140px" height="200px"><a href="https://github.com/reewon"><img src="https://avatars.githubusercontent.com/u/85295944?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>reewon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9"/></sub></a><br /></td>
+</tr><tr>         
 <td align="center" width="140px" height="200px"><a href="https://github.com/DoJiSeon"><img src="https://avatars.githubusercontent.com/u/66786183?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>DoJiSeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/8"/></sub></a><br /></td>
 <td align="center" width="140px" height="200px"><a href="https://github.com/Sjaize"><img src="https://avatars.githubusercontent.com/u/194899453?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>Sjaize</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9"/></sub></a><br /></td>
 <td align="center" width="140px" height="200px"><a href="https://github.com/yunchan-park"><img src="https://avatars.githubusercontent.com/u/194897454?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>yunchan-park</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/3"/></sub></a><br /></td>
-</tr><tr>
 <td align="center" width="140px" height="200px"><a href="https://github.com/jsshin8128"><img src="https://avatars.githubusercontent.com/u/187975806?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>jsshin8128</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 </table><br />
 
