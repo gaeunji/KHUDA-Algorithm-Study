@@ -1,0 +1,79 @@
+#include <iostream>
+#include <stdio.h>
+using namespace std;
+
+int bingo[5][5], line=0;
+bool check[5][5];
+
+void sayBingo(){
+    // 가로 체크
+    for (int i = 0; i < 5; i++) {
+        bool rowBingo = true;
+        for (int j = 0; j < 5; j++) {
+            if (!check[i][j]) {
+                rowBingo = false;
+                break;
+            }
+        }
+        if (rowBingo) line++;  // 가로 빙고
+    }
+
+    // 세로 체크
+    for (int i = 0; i < 5; i++) {
+        bool colBingo = true;
+        for (int j = 0; j < 5; j++) {
+            if (!check[j][i]) {
+                colBingo = false;
+                break;
+            }
+        }
+        if (colBingo) line++;  // 세로 빙고
+    }
+
+    // 대각선 체크
+    bool left_right_Bingo = true;
+    bool right_left_Bingo = true;
+    
+    for (int i = 0; i < 5; i++) {
+        if (!check[i][i]) left_right_Bingo = false;  // 왼오 대각석
+        if (!check[i][4-i]) right_left_Bingo = false;  // 오왼 대각선
+    }
+    if (left_right_Bingo) line++;  // 왼오 빙고
+    if (right_left_Bingo) line++;  // 오왼 빙고
+}
+
+
+void checkBingo(int num){
+    for (int i = 0; i < 5; i++) {
+        for (int j = 0; j < 5; j++) {
+            if (bingo[i][j] == num) {
+                check[i][j] = true;  // 해당 위치를 true로 표시
+                sayBingo();          // 빙고 체크
+            }
+        }
+    }
+}
+
+int main(){
+    int num, time = 0;
+    
+    // 빙고판 입력 받기
+    for (int i = 0; i < 5; i++) {
+        for (int j = 0; j < 5; j++) {
+            scanf("%d", &bingo[i][j]);
+        }
+    }
+    
+    // 입력된 번호들에 대해 빙고판을 업데이트하며 빙고 체크
+    for (int i = 1; i <= 25; i++) {
+        scanf("%d", &num);
+        checkBingo(num);  // 해당 번호에 대해 빙고 체크
+        time++;  // 몇 번째 입력이었는지 기록
+        if (line >= 3)  // 3줄 이상 빙고가 되면 종료
+            break;
+    }
+    
+    cout << time << endl;
+    return 0;
+}
+
